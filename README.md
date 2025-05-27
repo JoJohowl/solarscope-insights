@@ -33,7 +33,7 @@ Features include secure login, password recovery via security questions, profile
 
 | UWA ID   | Name                    | GitHub Username |
 | -------- | ----------------------- | --------------- |
-| 23927347 | Nanxi Rao               | flappyfishhh    |
+| 2******7 | Nancy Rao               | flappyfishhh    |
 | 24486055 | Ethan Zhang             | EthanZ-SH       |
 | 24284623 | Joshua Wang             | JoJohowl        |
 | 24289358 | Chamodhi Withana Gamage | chamodhii       |
